@@ -2,5 +2,5 @@
 
 
 * [HOME](/)
-* [Home Boarding](onboarding/README.md)
+* [Home Boarding](onboarding/index)
 
