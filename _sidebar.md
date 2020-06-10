@@ -2,5 +2,5 @@
 
 
 * [HOME](/)
-* [Home Boarding](onboarding/index)
+* [Home Boarding](/onboarding/index)
 
