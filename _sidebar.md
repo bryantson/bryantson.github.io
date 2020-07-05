@@ -2,5 +2,7 @@
 
 
 * [HOME](/)
-* [Home Boarding](/onboarding/index)
+* [Tutorials](/tutorials/index)
+* [About](/about/index)
+* [Contact](/contact/index)
 
